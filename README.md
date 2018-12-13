@@ -21,3 +21,5 @@
     - Transfer Learning
     - CNN con data customizada
     - RNN basico (LSTM)
+
+Nota: Usar el environment.yml para descargar los paquetes necesarios para ejecutar los notebooks.

@@ -1,4 +1,4 @@
-## Seminario de Introduccion a Keras para procesamiento de imágenes
+## Seminario de Introduccion a Keras para procesamiento de imágenes 
 
 ----------------------
 - **Parte I: Introducción**

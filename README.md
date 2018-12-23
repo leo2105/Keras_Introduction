@@ -1,25 +1,25 @@
-## Seminario de Introduccion a Keras para procesamiento de imágenes 
+## Brief practice Introduction to Keras for image processing 
 
 ----------------------
-- **Parte I: Introducción**
+- **Part I: Introducción**
 
-    - Variables básicas    
-    - Operaciones básicas
-
-
-- **Parte II: Machine Learning**
-
-    - Regresion Lineal
-    - Regresion Logistica
-    - Redes Neuronales
+    - Basic Variables    
+    - Basic Operations
 
 
-- **Parte III: Deep Learning**
+- **Part II: Machine Learning**
 
-    - Redes Neuronales Convolucionales
-    - Arquitecturas de CNNs
+    - Lineal Regression
+    - Logistic Regression
+    - Neural Networks
+
+
+- **Part III: Deep Learning**
+
+    - Convolutional Neural Networks
+    - CNNs Arquitectures
     - Transfer Learning
-    - CNN con data customizada
-    - RNN basico (LSTM)
+    - CNN using custom data
+    - Basic RNN (LSTM)
 
-Nota: Usar el environment.yml para descargar los paquetes necesarios para ejecutar los notebooks.
+Note: Use environment.yml to download libraries in order to run every notebook.
